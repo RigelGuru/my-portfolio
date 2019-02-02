@@ -1,0 +1,12 @@
+version 1.0
+
+phases:
+  build:
+    commands:
+      -cho nothing to do yet
+artifacts:
+  files:
+    -index.html
+    -favicon.ico
+    -styles/main.css
+    -images/*
