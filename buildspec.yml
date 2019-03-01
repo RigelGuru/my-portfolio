@@ -11,3 +11,5 @@ artifacts:
     - styles/*
     - images/*
     - React.html
+    - package.json
+    - package-lock.json
